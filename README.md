@@ -1,1 +1,1 @@
-# GFG-Problems
+# GFG Problems
